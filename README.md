@@ -25,9 +25,13 @@ _General plugin development under spigot/bukkitcraft_
 ### NMS
 _Dealing with server bound packets/net.minecraft.server_
 - [Kody Simpson's Advanced Spigot playlist](https://www.youtube.com/watch?v=2FcnwD2MHOA&list=PLfu_Bpi_zcDMWE15USaR7k5jqTufhWDy6) - Limited amount of videos, explained extremely well
+- [CodedRed's Advanced tutorials](https://www.youtube.com/c/CodedRed/playlists?view=50&sort=dd&shelf_id=3) - (**Not all are NMS**) Tutorials on specific versions of minecraft and for those at a higher skill level
+- [Maven & NMS tutorial Spigot Thread](https://www.spigotmc.org/threads/maven-nms-tutorial.347254/) - Leads you through your first steps of getting ready with NMS
 ### Minigames
 _Materials that specifically hone on minigames_
 - [Jordan Osterberg's minigame development playlist](https://www.youtube.com/watch?v=GW8xWDMqwtc&list=PL_PpCEhxOB-0vyS2V-iddLkE8PvNf1-9R) - Extremely limited amount of videos, very specific and good if you plan to make minigames, gives a look in to thought process
+- [TheSourceCode's TNT Tag series](https://www.youtube.com/watch?v=R30xVZ1-vOw&list=PLdnyVeMcpY79WCCGsHW0_XHhGDmsPJBtC) - An end to finish video series on the creation of a TNT tag plugin like hypixel
+- [MinigamesLib](https://www.spigotmc.org/resources/minigameslib.23844) - **(Legacy, outdated)** A library that makes making minigames and minigame servers easier
 ### APIs/helpers
 _APIs/Helpers that will make development way easier_
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) - Helps with the modification of packets which are impossible to preform  with the standard Bukkit API, widely used
