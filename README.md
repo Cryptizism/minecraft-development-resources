@@ -58,3 +58,4 @@ _Resources that will help you make a resource pack using every feature_
 ### Model Development
 _Resources that will help you with importing custom models in to the game_
 - [Blockbench](https://www.blockbench.net/quickstart) - A program used by 99% of pack creators that use custom models, linked is the quickstart that will guide you on how to start
+- [Minecraft Style Guide](https://itemsadder.devs.beer/plugin-usage/minecraft-style-guide) - A guide that goes through thuroughly of the dos and don'ts of making a model in the minecraft style
