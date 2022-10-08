@@ -3,9 +3,8 @@ on:
   push:
     branches:
       - master
-
 jobs:
-  Build_Deploy:
+  build-deploy:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
@@ -15,11 +14,12 @@ jobs:
 
       - run: npm install
       - run: npm run build
+      - run: npm run create:ast
 
-      - name: Deploy Website
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          user_name: 'github-actions[bot]'
-          user_email: 'github-actions[bot]@users.noreply.github.com'
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
