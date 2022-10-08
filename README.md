@@ -2,8 +2,8 @@
 _A repo containing resources that will aid you in the process of doing anything you need to do in your development process_
 
 - [Plugin development](#plugin-development)
-  - [Spigot/BukkitCraft (general)](#spigotbukkitcraft)
-  - [NMS (net.minecraft.server, packets)](#nms)
+  - [Spigot/BukkitCraft](#spigotbukkitcraft)
+  - [NMS](#nms)
   - [Minigames](#minigames)
   - [APIs/helpers](#apishelpers)
   - [Snippets](#snippets)
