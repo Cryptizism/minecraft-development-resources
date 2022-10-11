@@ -59,7 +59,12 @@ _Resources that will help you in the process of making resource packs and will g
 _Resources that will help you make a resource pack using every feature_
 - [Love & Tolerance Resource Pack Guide](https://github.com/Love-and-Tolerance/Resource-Pack-Guide) - Arguably the holy bible of resources when it comes to resource packs, goes through nearly everything you need to know for making a texture pack and more such as even more resources and software
 - [Minecraft Style Guide](https://itemsadder.devs.beer/plugin-usage/minecraft-style-guide) - A guide that goes through thuroughly of the dos and don'ts of making a resource pack in the minecraft style
+- [Custom UI Bar Tutorial](https://www.youtube.com/watch?v=EL2X6ppZSCQ) - A tutorial that shows you how to make the increasingly popular custom ui bars
 ### Model Development
 _Resources that will help you with importing custom models in to the game_
-- [Blockbench](https://www.blockbench.net/quickstart) - A program used by 99% of pack creators that use custom models, linked is the quickstart that will guide you on how to start
+- [Blockbench](https://www.blockbench.net) - The most popular software for making voxel based blocks/entities for Minecraft.
+  - [Blockbench Quickstart](https://www.blockbench.net/quickstart) - Tells you your first steps for learning how to use blockbench for your use
 - [Minecraft Style Guide](https://itemsadder.devs.beer/plugin-usage/minecraft-style-guide) - A guide that goes through thuroughly of the dos and don'ts of making a model in the minecraft style
+- [OBJMc](https://github.com/Godlander/objmc) - Allows you to import animated/non-animated OBJs in to minecraft using tetxure packs
+  - [OBJMc Tutorial](https://www.youtube.com/watch?v=R6l0thbLN48) - OBJMc is rather confusing and this tutorial may help with any issues you may face
+
