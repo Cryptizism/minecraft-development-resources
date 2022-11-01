@@ -38,6 +38,11 @@ _APIs/Helpers that will make development way easier_
 - [Citizens](https://citizensnpcs.co/) - Makes creating NPCs incredibly easy and intuiative with numerous additional features, widely used
 - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) - A plugin for Spigot servers that allows server owners to display information from various plugins with a uniform format
 - [MinigamesLib](https://www.spigotmc.org/resources/minigameslib.23844) - **(Legacy, outdated)** A library that makes making minigames and minigame servers easier
+### Datapacks
+_Resources that will aid you in learning how to make datapacks_
+- [LegitMoose Tutorial](https://www.youtube.com/watch?v=ac6V5-KT6Rg) - A short small tutorial by LegitMoose that will get you started creating datapacks
+- [Datapack Generator/Utility website](https://misode.github.io/) - Allows you to easily generate datapacks and view a versions pack version
+- [Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server) - Makes developing datapacks easier with syntax and more useful utilities
 ### Snippets
 _Code snippets that you will be using in your day to day devlopment_
 - [Spigot's official Code Snippets](https://www.spigotmc.org/wiki/plugin-snippets/) - A rather extensive list of plugin code snippets and explains you through them
