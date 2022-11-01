@@ -6,6 +6,7 @@ _A repo containing resources that will aid you in the process of doing anything 
   - [NMS](#nms)
   - [Minigames](#minigames)
   - [APIs/helpers](#apishelpers)
+  - [Datapacks](#datapacks)
   - [Snippets](#snippets)
 - [Mod development](#mod-development)
   - [Forge](#forge)
@@ -14,7 +15,6 @@ _A repo containing resources that will aid you in the process of doing anything 
 - [Resource pack development](#resource-pack-development)
   - [General](#general)
   - [Model Development](#model-development)
-  
 ## Plugin Development
 _Resources that will aid you in the development of plugins for minecraft_
 ### Spigot/BukkitCraft
@@ -37,6 +37,7 @@ _APIs/Helpers that will make development way easier_
 - [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) - Helps with the modification of packets which are impossible to preform  with the standard Bukkit API, widely used
 - [Citizens](https://citizensnpcs.co/) - Makes creating NPCs incredibly easy and intuiative with numerous additional features, widely used
 - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) - A plugin for Spigot servers that allows server owners to display information from various plugins with a uniform format
+- [Multiverse](https://www.spigotmc.org/resources/multiverse-core.390/) - Allows you to make multiple worlds, have thier own rules, inventories, permissions and more
 - [MinigamesLib](https://www.spigotmc.org/resources/minigameslib.23844) - **(Legacy, outdated)** A library that makes making minigames and minigame servers easier
 ### Datapacks
 _Resources that will aid you in learning how to make datapacks_
