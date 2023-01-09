@@ -15,6 +15,7 @@ _A repo containing resources that will aid you in the process of doing anything 
 - [Resource pack development](#resource-pack-development)
   - [General](#general)
   - [Model Development](#model-development)
+  - [Vanilla Shaders](#vanilla-shaders)
 ## Plugin Development
 _Resources that will aid you in the development of plugins for minecraft_
 ### Spigot/BukkitCraft
@@ -73,4 +74,6 @@ _Resources that will help you with importing custom models in to the game_
 - [Minecraft Style Guide](https://itemsadder.devs.beer/plugin-usage/minecraft-style-guide) - A guide that goes through thuroughly of the dos and don'ts of making a model in the minecraft style
 - [OBJMc](https://github.com/Godlander/objmc) - Allows you to import animated/non-animated OBJs in to minecraft using tetxure packs
   - [OBJMc Tutorial](https://www.youtube.com/watch?v=R6l0thbLN48) - OBJMc is rather confusing and this tutorial may help with any issues you may face
-
+### Vanilla Shaders
+- [Minecraft Vanilla Shaders Guide](https://docs.google.com/document/d/15TOAOVLgSNEoHGzpNlkez5cryH3hFF3awXL5Py81EMk/edit?usp=sharing) A doc made in the early ages of Vanilla shaders that cover the basics
+- [Example implementation of shaders GitHub](https://github.com/HalbFettKaese/common-shaders) Allows you to get more hands on with shaders and get a better understanding of how they work
