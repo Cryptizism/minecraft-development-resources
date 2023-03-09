@@ -79,4 +79,4 @@ _Resources that will help aid you create vanilla shaders that were added as of 1
 - [Minecraft Shaders Wiki](https://github.com/ShockMicro/Minecraft-Shaders/wiki/) Largest community documentation of shaders with image examples and explanations
 - [Minecraft Vanilla Shaders Guide](https://docs.google.com/document/d/15TOAOVLgSNEoHGzpNlkez5cryH3hFF3awXL5Py81EMk/edit?usp=sharing) A doc made in the early ages of Vanilla shaders that cover the basics
 - [Example implementation of shaders GitHub](https://github.com/HalbFettKaese/common-shaders) Allows you to get more hands on with shaders and get a better understanding of how they work
-
+- [Text Shader Wiki](https://github.com/Vekhove/Minecraft-Text-Shaders/wiki) A wiki specifically on text based vanilla shaders
