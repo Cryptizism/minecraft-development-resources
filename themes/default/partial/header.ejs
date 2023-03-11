@@ -5,8 +5,23 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><%= title %> <%= site %> </title>
-  <% if (description) { %>
+  <meta name="title" content="Minecraft Development Resources">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="<%= RELATIVE_PATH %>">
+  <meta property="og:title" content="Minecraft Development Resources">
+  <meta property="og:image" content="<%= RELATIVE_PATH %>/assets/embed-img.png">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="<%= RELATIVE_PATH %>">
+  <meta property="twitter:title" content="Minecraft Development Resources">
+  <meta property="twitter:image" content="<%= RELATIVE_PATH %>/assets/embed-img.png">
+    <% if (description) { %>
   <meta name="description" content="<%= description %>">
+  <meta property="og:description" content="<%= description %>">
+  <meta property="twitter:description" content="<%= description %>">
   <% }%>
   <% if (keywords) { %>
   <meta name="keywords" content="<%= keywords %>">
