@@ -56,9 +56,11 @@ _Resources that will aid you in the development of mods for minecraft_
 ### Forge
 _Resources that will help you make forge mods_
 - [Forge's official Wiki](https://docs.minecraftforge.net/en/latest/gettingstarted/) An official extensive wiki for getting started with forge, allows you to pick what version of the game you want a tutorial for
+- [Forge Tutorial 1.19 Playlist](https://www.youtube.com/playlist?list=PLKGarocXCE1HrC60yuTNTGRoZc6hf5Uvl) Tutorials by 'Modding by Kaupenjoe' that go through moddding for 1.19 Forge comprised of 40 videos that tocuhes on nearly every aspect of modding
 ### Fabric
 _Resources that will help you make fabric mods_
 - [Fabric's official Wiki](https://fabricmc.net/wiki/doku.php#tutorials_for_developing_with_fabric) An official extensive wiki for getting started with fabric, goes through specific examples
+- [Fabric Tutorial 1.19 Playlist](https://www.youtube.com/playlist?list=PLKGarocXCE1HrC60yuTNTGRoZc6hf5Uvl) Tutorials by 'Modding by Kaupenjoe' that go through moddding for 1.19 Fabric comprised of 41 videos that tocuhes on nearly every aspect of modding
 ### Mixins
 _Resources that will help you with mixins_
 - [Fabric's mixin Wiki](https://fabricmc.net/wiki/tutorial:mixin_introduction) An official wiki page by fabric which has a coherent explanation of how to use mixins, it also has examples and code snippets with explanations
@@ -70,6 +72,7 @@ _Resources that will help you make a resource pack using every feature_
 - [Love & Tolerance Resource Pack Guide](https://github.com/Love-and-Tolerance/Resource-Pack-Guide) Arguably the holy bible of resources when it comes to resource packs, goes through nearly everything you need to know for making a texture pack and more such as even more resources and software
 - [Minecraft Style Guide](https://itemsadder.devs.beer/plugin-usage/minecraft-style-guide) A guide that goes through thuroughly of the dos and don'ts of making a resource pack in the minecraft style
 - [Custom UI Bar Tutorial](https://www.youtube.com/watch?v=EL2X6ppZSCQ) A tutorial that shows you how to make the increasingly popular custom ui bars
+- [OptiFine Docs](https://github.com/sp614x/optifine/tree/master/OptiFineDoc/doc) Documentation that will explain all OptiFine specific texture related things such as CIT, CEM, CTM and more.
 ### Model Development
 _Resources that will help you with importing custom models in to the game_
 - [Blockbench](https://www.blockbench.net) - The most popular software for making voxel based blocks/entities for Minecraft.
