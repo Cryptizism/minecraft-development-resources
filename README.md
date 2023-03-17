@@ -96,3 +96,13 @@ _Resources that will help you in the process of making maps/worlds for minecraft
 ### Software
 - [WorldPainter](https://www.worldpainter.net/) Software that makes sculpting and and painting terrain and structures easier
 - [Amulet](https://www.amuletmc.com/) Software that allows you to alter blocks, chunks and biomes and also copy and paste structures with the ability of operations and free transform
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
