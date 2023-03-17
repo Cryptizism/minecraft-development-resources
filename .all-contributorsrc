@@ -1,9 +1,22 @@
 {
-  "projectName": "Minecraft Development Resources",
+  "projectName": "minecraft-development-resources",
   "projectOwner": "Cryptizism",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
-  "contributors": []
+  "contributors": [
+    {
+      "login": "Cryptizism",
+      "name": "Cryptizism",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60571306?v=4",
+      "profile": "http://www.cryptizism.com",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    }
+  ],
+  "commitConvention": "angular",
+  "contributorsPerLine": 7
 }

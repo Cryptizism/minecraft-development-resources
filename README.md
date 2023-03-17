@@ -101,6 +101,13 @@ _Resources that will help you in the process of making maps/worlds for minecraft
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.cryptizism.com"><img src="https://avatars.githubusercontent.com/u/60571306?v=4?s=100" width="100px;" alt="Cryptizism"/><br /><sub><b>Cryptizism</b></sub></a><br /><a href="#doc-Cryptizism" title="Documentation">📖</a> <a href="#code-Cryptizism" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
