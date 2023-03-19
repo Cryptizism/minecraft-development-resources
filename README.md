@@ -1,5 +1,5 @@
 # Minecraft development resources ![GitHub last commit](https://img.shields.io/github/last-commit/cryptizism/minecraft-development-resources?label=Last%20updated&style=for-the-badge)
-_A repo containing resources that will aid you in the process of doing anything you need to do in your development process_
+_A repo containing resources that will aid you in the process of doing anything you need to do in your development process for Java Minecraft_
 
 - [Plugin development](#plugin-development)
   - [Spigot/BukkitCraft](#spigotbukkitcraft)
@@ -19,6 +19,7 @@ _A repo containing resources that will aid you in the process of doing anything 
 - [Map development](#map-development) 
   - [Mods](#mods)
   - [Software](#software)
+- [Contributors](#contributors)
 ## Plugin Development
 _Resources that will aid you in the development of plugins for minecraft_
 ### Spigot/BukkitCraft
@@ -77,6 +78,11 @@ _Resources that will help you make a resource pack using every feature_
 _Resources that will help you with importing custom models in to the game_
 - [Blockbench](https://www.blockbench.net) - The most popular software for making voxel based blocks/entities for Minecraft.
   - [Blockbench Quickstart](https://www.blockbench.net/quickstart) - Tells you your first steps for learning how to use blockbench for your use
+  - ["The ULTIMATE Blockbench Tutorial"](https://www.youtube.com/watch?v=fdo_E61vVlw) A comprehensive and thurough explanation of blockbench, how to use it and specifically for Minecraft
+- [GeckoLib](https://geckolib.com/) Bring model animation to forge/fabric mods with a number of other different features and tools
+  - [GeckoLib BlockBench Tutorial](https://www.youtube.com/playlist?list=PLsbs474s4wcoC63HEguP3GhualODOcFqB) A start to finish 3 video long tutorial series which will help you creating all you need in blockbench for Fabric/Forge
+    - [Fabric GeckoLib Tutorial](https://www.youtube.com/playlist?list=PLKGarocXCE1H7lMgKRVakmRnNDOA9aN8o) A tutorial to implement geckolib entities in Fabric
+    - [Forge GeckoLib Tutorial](https://www.youtube.com/playlist?list=PLKGarocXCE1HEf7Z65pg7znqsVJHMGCKJ) A tutorial to implement geckolib entities in Forge
 - [Minecraft Style Guide](https://www.blockbench.net/wiki/guides/minecraft-style-guide/) A guide that goes through thuroughly of the dos and don'ts of making a model in the minecraft style
 - [OBJMc](https://github.com/Godlander/objmc) Allows you to import animated/non-animated OBJs in to minecraft using tetxure packs
   - [OBJMc Tutorial](https://www.youtube.com/watch?v=R6l0thbLN48) OBJMc is rather confusing and this tutorial may help with any issues you may face
