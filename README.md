@@ -77,7 +77,7 @@ _Resources that will help you make a resource pack using every feature_
 _Resources that will help you with importing custom models in to the game_
 - [Blockbench](https://www.blockbench.net) - The most popular software for making voxel based blocks/entities for Minecraft.
   - [Blockbench Quickstart](https://www.blockbench.net/quickstart) - Tells you your first steps for learning how to use blockbench for your use
-- [Minecraft Style Guide](https://itemsadder.devs.beer/plugin-usage/minecraft-style-guide) A guide that goes through thuroughly of the dos and don'ts of making a model in the minecraft style
+- [Minecraft Style Guide](https://www.blockbench.net/wiki/guides/minecraft-style-guide/) A guide that goes through thuroughly of the dos and don'ts of making a model in the minecraft style
 - [OBJMc](https://github.com/Godlander/objmc) Allows you to import animated/non-animated OBJs in to minecraft using tetxure packs
   - [OBJMc Tutorial](https://www.youtube.com/watch?v=R6l0thbLN48) OBJMc is rather confusing and this tutorial may help with any issues you may face
 ### Vanilla Shaders
