@@ -4,8 +4,6 @@ output: dist
 
 site: Minecraft Development Resources
 
-theme: themes/default
-
 description: "A compilation of many different resources that will help with development in: Plugins, Mods, Resource packs and Maps for Minecraft: Java Edition"
 
 keywords: forge,fabric,mods,plugins,minecraft,maps,resourcepacks,texturepacks,shaders,shader
