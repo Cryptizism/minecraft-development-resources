@@ -18,5 +18,12 @@
     }
   ],
   "commitConvention": "angular",
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "types": {
+    "custom": {
+      "symbol": "🔗",
+      "description": "Contributor of external resources",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
 }
