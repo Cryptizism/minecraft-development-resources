@@ -31,6 +31,7 @@ _A repo containing resources that will aid you in the process of doing anything 
 | [PaperMC](https://papermc.io/) | No | Yes | Latest | Optimized version of Spigot, one of the most popular implementations |
 | [Spigot](https://www.spigotmc.org/wiki/buildtools/#what-is-it) | No | Yes | Latest | Spigot is the most common server. |
 | [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) | Yes | Yes | Latest | Forge is the most common server for client-side modifications. |
+| [Fabric](https://fabricmc.net/use/server/) | Yes | Yes | Latest | Fabric is another common server for client-side modifications namely for modern versions of Minecraft. |
 | [SpongeForge](https://www.spongepowered.org/downloads/spongeforge) | Yes | Yes | <1.16.5 | Forge implementation and also allows sponge plugins. |
 | [SpongeVanilla](https://www.spongepowered.org/downloads/spongevanilla) | No | Yes | Latest |SpongeForge but without the Forge aspect |
 | [PurPur](https://purpurmc.org/) | No | Yes | Latest | A more configurable and optimized "drop-in replacement for Paper servers" |
