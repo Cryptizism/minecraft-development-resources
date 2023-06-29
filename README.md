@@ -1,6 +1,9 @@
 # Minecraft development resources ![GitHub last commit](https://img.shields.io/github/last-commit/cryptizism/minecraft-development-resources?label=Last%20updated&style=for-the-badge)
 _A repo containing resources that will aid you in the process of doing anything you need to do in your development process for Java Minecraft_
 
+- [Server managment](#server-management)
+  - [Server implmentations/warpper](#server-implementationswrappers)
+  - [Server software](#server-software)
 - [Plugin development](#plugin-development)
   - [Spigot/BukkitCraft](#spigotbukkitcraft)
   - [NMS](#nms)
@@ -20,6 +23,23 @@ _A repo containing resources that will aid you in the process of doing anything 
   - [Mods](#mods)
   - [Software](#software)
 - [Contributors](#contributors)
+## Server Management
+### Server Implementations/Wrappers
+| Name | Client-Side? | Plugins? | Latest Version | Description |
+| - | - | - | - | - |
+| [Vanilla](https://www.minecraft.net/en-us/download/server) | No | No | Latest | Pure vanilla experience with no modification, official server implementation |
+| [PaperMC](https://papermc.io/) | No | Yes | Latest | Optimized version of Spigot, one of the most popular implementations |
+| [Spigot](https://www.spigotmc.org/wiki/buildtools/#what-is-it) | No | Yes | Latest | Spigot is the most common server. |
+| [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) | Yes | Yes | Latest | Forge is the most common server for client-side modifications. |
+| [SpongeForge](https://www.spongepowered.org/downloads/spongeforge) | Yes | Yes | <1.16.5 | Forge implementation and also allows sponge plugins. |
+| [SpongeVanilla](https://www.spongepowered.org/downloads/spongevanilla) | No | Yes | Latest |SpongeForge but without the Forge aspect |
+| [PurPur](https://purpurmc.org/) | No | Yes | Latest | A more configurable and optimized "drop-in replacement for Paper servers" |
+| [Pufferfish](https://pufferfish.host/downloads) | No | Yes | Latest | A Paper fork with a focus on large servers, performance and stability |
+### Server Software
+- [GeyserMC](https://geysermc.org/download) A plugin/standalone implementation that allows crossplay between bedrock and Java players
+- [Bungeecord](https://www.spigotmc.org/wiki/bungeecord/) A simple proxy allowing the bridge between multiple Minecraft servers
+- [Waterfall](https://papermc.io/software/waterfall) A fork of Bungeecord with a focus on performance, stability, compatibility and security
+- [Velocity](https://papermc.io/software/velocity) A fork of Bungeecord with a focus on performance and stability
 ## Plugin Development
 _Resources that will aid you in the development of plugins for Minecraft_
 ### Spigot/BukkitCraft
