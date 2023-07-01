@@ -120,7 +120,7 @@ _Resources that will help you in the process of making maps/worlds for Minecraft
 - [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) **(Forge/Fabric)** A mod that makes building easier using: selections, schematics, brushes, shapes functions and more!
   - [WorldEdit CUI Fabric](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) A mod that helps you visualize selections and data of world edit
   - [WorldEdit CUI Forge](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3) A mod that helps you visualize selections and data of world edit
-- [Axiom (W.I.P)](https://discord.gg/jDuUqnkjxV) **(Fabric)** A mod with various vanilla tweaks for building regularly as well as a visual editor with brushes, selections, operators and more!
+- [Axiom (BETA)](https://axiom.moulberry.com/) **(Fabric)** A mod with various vanilla tweaks for building regularly as well as a visual editor with brushes, selections, operators and more!
 ### Software
 - [WorldPainter](https://www.worldpainter.net/) Software that makes sculpting and painting terrain and structures easier
 - [Amulet](https://www.amuletmc.com/) Software that allows you to alter blocks, chunks and biomes and also copy and paste structures with the ability of operations and free transform
