@@ -91,7 +91,7 @@ _Resources that will help you with mixins_
 _Resources that will help you in the process of making resource packs and will give you a better understanding of how it works_
 ### General
 _Resources that will help you make a resource pack using every feature_
-- [Love & Tolerance Resource Pack Guide](https://github.com/Love-and-Tolerance/Resource-Pack-Guide) Arguably the holy bible of resources when it comes to resource packs, goes through nearly everything you need to know for making a texture pack and more such as even more resources and software
+- [Love & Tolerance Resource Pack Guide](https://guide.love-tolerance.com/) Arguably the holy bible of resources when it comes to resource packs, goes through nearly everything you need to know for making a texture pack and more such as even more resources and software
 - [Minecraft Style Guide](https://itemsadder.devs.beer/plugin-usage/minecraft-style-guide) A guide that goes through thoroughly of the dos and don'ts of making a resource pack in the Minecraft style
 - [Custom UI Bar Tutorial](https://www.youtube.com/watch?v=EL2X6ppZSCQ) A tutorial that shows you how to make the increasingly popular custom ui bars
 - [OptiFine Docs](https://github.com/sp614x/optifine/tree/master/OptiFineDoc/doc) Documentation that will explain all OptiFine-specific texture-related things such as CIT, CEM, CTM and more.
