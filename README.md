@@ -1,3 +1,4 @@
+
 # Minecraft development resources ![GitHub last commit](https://img.shields.io/github/last-commit/cryptizism/minecraft-development-resources?label=Last%20updated&style=for-the-badge)
 _A repo containing resources that will aid you in the process of doing anything you need to do in your development process for Java Minecraft_
 
@@ -41,6 +42,10 @@ _A repo containing resources that will aid you in the process of doing anything 
 - [Bungeecord](https://www.spigotmc.org/wiki/bungeecord/) A simple proxy allowing the bridge between multiple Minecraft servers
 - [Waterfall](https://papermc.io/software/waterfall) A fork of Bungeecord with a focus on performance, stability, compatibility and security
 - [Velocity](https://papermc.io/software/velocity) A fork of Bungeecord with a focus on performance and stability
+### Server Monitoring
+- [Spark](https://spark.lucko.me/) A performance profiler containing: a profiler, memory inspection, health monitoring
+- [Timings](https://papermc.io/) A built-in performance monitoring tool in Paper and Spigot, used to analyze tick lag (`/timings paste`)
+- [VisualVM](https://visualvm.github.io/) A Java profiler for analyzing CPU, memory usage, and threads in real time
 ## Plugin Development
 _Resources that will aid you in the development of plugins for Minecraft_
 ### Spigot/BukkitCraft
@@ -58,13 +63,18 @@ _Materials that specifically hone on minigames_
 - [Jordan Osterberg's minigame development playlist](https://www.youtube.com/watch?v=GW8xWDMqwtc&list=PL_PpCEhxOB-0vyS2V-iddLkE8PvNf1-9R) Extremely limited amount of videos, very specific and good if you plan to make minigames, gives a look into thought process
 - [TheSourceCode's TNT Tag series](https://www.youtube.com/watch?v=R30xVZ1-vOw&list=PLdnyVeMcpY79WCCGsHW0_XHhGDmsPJBtC) An end to finish video series on the creation of a TNT tag plugin like hypixel
 - [MinigamesLib](https://www.spigotmc.org/resources/minigameslib.23844) **(Legacy, outdated)** A library that makes making minigames and minigame servers easier
+
 ### APIs/helpers
 _APIs/Helpers that will make development way easier_
-- [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) Helps with the modification of packets which are impossible to perform  with the standard Bukkit API, widely used
+- [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) Helps with the modification of packets which are impossible to perform with the standard Bukkit API, widely used
+- [PacketEvents](https://www.spigotmc.org/resources/packetevents-the-ultimate-packet-api.80279/) A high-performance packet API for handling networking efficiently in Bukkit/Spigot plugins
 - [Citizens](https://citizensnpcs.co/) Makes creating NPCs incredibly easy and intuitive with numerous additional features, widely used
 - [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/) A plugin for Spigot servers that allows server owners to display information from various plugins with a uniform format
-- [Multiverse](https://www.spigotmc.org/resources/multiverse-core.390/) Allows you to make multiple worlds, have their own rules, inventories, permissions and more
+- [Multiverse](https://www.spigotmc.org/resources/multiverse-core.390/) Allows you to make multiple worlds, have their own rules, inventories, permissions, and more
+- [MultiWorld](https://www.spigotmc.org/resources/multiworld.156/) A lightweight alternative to Multiverse for managing multiple worlds
+- [Dimension Manager](https://modrinth.com/plugin/dimension-manager) A Paper plugin for creating and managing custom dimensions
 - [MinigamesLib](https://www.spigotmc.org/resources/minigameslib.23844) **(Legacy, outdated)** A library that makes making minigames and minigame servers easier
+
 ### Datapacks
 _Resources that will aid you in learning how to make datapacks_
 - [LegitMoose Tutorial](https://www.youtube.com/watch?v=ac6V5-KT6Rg) A short small tutorial by LegitMoose that will get you started creating datapacks
@@ -120,7 +130,7 @@ _Resources that will help you in the process of making maps/worlds for Minecraft
 - [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) **(Forge/Fabric)** A mod that makes building easier using: selections, schematics, brushes, shapes functions and more!
   - [WorldEdit CUI Fabric](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) A mod that helps you visualize selections and data of world edit
   - [WorldEdit CUI Forge](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3) A mod that helps you visualize selections and data of world edit
-- [Axiom (BETA)](https://axiom.moulberry.com/) **(Fabric)** A mod with various vanilla tweaks for building regularly as well as a visual editor with brushes, selections, operators and more!
+- [Axiom](https://axiom.moulberry.com/) **(Fabric)** A mod with various vanilla tweaks for building regularly as well as a visual editor with brushes, selections, operators and more!
 ### Software
 - [WorldPainter](https://www.worldpainter.net/) Software that makes sculpting and painting terrain and structures easier
 - [Amulet](https://www.amuletmc.com/) Software that allows you to alter blocks, chunks and biomes and also copy and paste structures with the ability of operations and free transform
