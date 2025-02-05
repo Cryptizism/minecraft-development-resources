@@ -37,11 +37,12 @@ _A repo containing resources that will aid you in the process of doing anything 
 | [SpongeVanilla](https://www.spongepowered.org/downloads/spongevanilla) | No | Yes | Latest |SpongeForge but without the Forge aspect |
 | [PurPur](https://purpurmc.org/) | No | Yes | Latest | A more configurable and optimized "drop-in replacement for Paper servers" |
 | [Pufferfish](https://pufferfish.host/downloads) | No | Yes | Latest | A Paper fork with a focus on large servers, performance and stability |
+| [AdvancedSlimePaper](https://github.com/InfernalSuite/AdvancedSlimePaper) | No | Yes | Latest | Advanced Slime Paper is a fork of Paper with an easy to use tool to load worlds faster and save space |
 ### Server Software
 - [GeyserMC](https://geysermc.org/download) A plugin/standalone implementation that allows crossplay between bedrock and Java players
 - [Bungeecord](https://www.spigotmc.org/wiki/bungeecord/) A simple proxy allowing the bridge between multiple Minecraft servers
-- [Waterfall](https://papermc.io/software/waterfall) A fork of Bungeecord with a focus on performance, stability, compatibility and security
-- [Velocity](https://papermc.io/software/velocity) A fork of Bungeecord with a focus on performance and stability
+- [Waterfall](https://papermc.io/software/waterfall) **(Outdated)** A fork of Bungeecord with a focus on performance, stability, compatibility and security
+- [Velocity](https://papermc.io/software/velocity) An alternative to Waterfall which is maintained and has a wide ecosystem with a focus on performance and stability
 ### Server Monitoring
 - [Spark](https://spark.lucko.me/) A performance profiler containing: a profiler, memory inspection, health monitoring
 - [Timings](https://papermc.io/) A built-in performance monitoring tool in Paper and Spigot, used to analyze tick lag (`/timings paste`)
