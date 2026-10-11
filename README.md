@@ -86,6 +86,7 @@ _Code snippets that you will be using in your day-to-day development_
 - [Spigot's official Code Snippets](https://www.spigotmc.org/wiki/plugin-snippets/) A rather extensive list of plugin code snippets and explains you through them
 ## Mod Development
 _Resources that will aid you in the development of mods for Minecraft_
+- [How to make a Minecraft mod with AI — Universal Modder & NeoForge 1.21.1](https://universalmodder.dev/guides/minecraft-first-mod/) (**Minecraft Java 1.21.1, NeoForge, JDK 21**) Independent step-by-step Copper Token item and recipe guide, with source files, Gradle build instructions and isolated JAR verification steps.
 ### Forge
 _Resources that will help you make forge mods_
 - [Forge's official Wiki](https://docs.minecraftforge.net/en/latest/gettingstarted/) An official extensive wiki for getting started with forge, allows you to pick what version of the game you want a tutorial for
